@@ -1,0 +1,15 @@
+
+
+open
+clear results
+set frequency
+add Nleb*2 planewaves
+run
+save
+
+for all incident planewaves
+    update excitation weights
+        -- execute appro
+    for all scattered planewaves
+        record data
+

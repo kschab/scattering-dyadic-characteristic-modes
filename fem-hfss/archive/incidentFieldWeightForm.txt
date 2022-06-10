@@ -1,0 +1,5 @@
+		[
+			"Name:="		, "IncPWavexxNxx",
+			"Magnitude:="		, "xxVabsxxV_per_meter",
+			"Phase:="		, "xxVphxxdeg"
+		]

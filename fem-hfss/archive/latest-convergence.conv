@@ -1,0 +1,20 @@
+DesignVariation : a='75mm' b='150mm' ePhi='1' h='3mm' w='2.5mm'
+Setup : Setup1
+
+==================
+Number of Passes
+Completed : 2
+Maximum   : 10
+Minimum   : 1
+==================
+Criterion : Delta Mag Energy
+Target    : 0.01
+Current   : 0.0040128
+Target Consecutive Passes  : 1
+Current Consecutive Passes : 1
+Converged : Yes
+==================
+Pass Number|Solved Elements|Delta Mag Energy|
+          1|          46043|             N/A|
+          2|          59397|       0.0040128|
+

@@ -1,0 +1,8 @@
+oModule = oDesign.GetModule("Solutions")
+oModule.EditSources(
+	[
+		[
+			"FieldType:="		, "ScatteredFields",
+			"IncludePortPostProcessing:=", False,
+			"SpecifySystemPower:="	, False
+		],

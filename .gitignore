@@ -1,0 +1,18 @@
+*.asv
+fem-hfss/hfss/plate-leb.aedtresults/
+<<<<<<< HEAD
+fem-hfss/hfss/plate-leb-multi.aedtresults/
+fem-hfss/hfss/plate-compute.aedtresults/
+fem-hfss/hfss/plate-plotting.aedtresults/
+fem-hfss/archive/plate-leb.aedtresults/
+fem-hfss/archive/plate-leb-multi.aedtresults/
+fem-hfss/archive/plate-leb-multi-pml.aedtresults/
+fem-hfss/archive/plate-leb-multi-pml-plotting.aedtresults/
+fem-hfss/hfss/plate-leb-multi-pml.aedtresults/
+fem-hfss/hfss/plate-leb-multi-pml-plotting.aedtresults/
+=======
+FDTD-CST/FilledDieleclosslessCellphoneSimpleModel_PEC_oneSided_ThinPEC
+>>>>>>> CST-FDTD-Development
+*.DS_Store
+FDTD-CST/imag.txt
+FDTD-CST/real.txt

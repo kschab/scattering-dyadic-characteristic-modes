@@ -1,0 +1,784 @@
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [uv]","im(rETheta) [uv]"
+0.6406,180,90,0,90,-55.0960170860856,33.9669860669691,10.5876632011349,-7.88760656581618
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [uv]","im(rETheta) [uv]"
+0.6406,180,90,180,90,55.1099348296187,-33.956241537905,5.80655823994899,-9.70970255909846
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [uv]","im(rETheta) [uv]"
+0.6406,180,90,90,90,691.944918206788,888.569085123185,12.2551580351887,1.02514040231058
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [uv]","re(rETheta) [uv]","im(rETheta) [uv]"
+0.6406,180,90,-90,90,-987.478855338877,1.71870743421779,5.35326807543045,-7.52673354788471
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,0,-51.7395023873703,31.7958771424591,666.888988707959,-1.81775562651194
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,180,-51.7448884151203,31.8073894431326,-214.916085712193,-4.49364349084757
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,54.736,-36.6394945289815,22.5089918359679,-21.0787602890061,12.9344341802441
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,54.736,36.645906232864,-22.5037257471139,-21.0800374113719,12.9290580796067
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,54.736,-36.6504604629193,22.5039791576084,21.0947954500462,-12.9418256126293
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,125.264,-36.6552035459539,22.5118855102941,21.0982733929407,-12.9405819025301
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,54.736,36.6426051502041,-22.5157906507122,21.0957268907052,-12.9501477267452
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,125.264,-36.6416174236904,22.5088248208688,-21.0796923170379,12.9310688847448
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,125.264,36.6407220505334,-22.5022788134192,21.0951925184027,-12.9363160568787
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,125.264,36.6383696821451,-22.5055829028273,-21.0777651910475,12.9271419346131
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [uv]","im(rETheta) [uv]"
+0.6406,180,90,0,90,55.0960170860856,-33.9669860669691,-10.5876632017756,7.88760656494092
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [uv]","im(rETheta) [uv]"
+0.6406,180,90,180,90,-55.1099348296187,33.956241537905,-5.80655823930981,9.70970255822227
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [uv]","im(rETheta) [uv]"
+0.6406,180,90,90,90,-691.944918206325,-888.569085124112,-12.2551580360726,-1.02514040168136
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [uv]","re(rETheta) [uv]","im(rETheta) [uv]"
+0.6406,180,90,-90,90,987.47885533795,-1.71870743421918,-5.35326807454592,7.52673354851209
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,0,51.7395023873703,-31.7958771424591,-666.888988706916,1.8177556265113
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,180,51.7448884151203,-31.8073894431326,214.91608571115,4.49364349084688
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,54.736,36.6394945289815,-22.5089918359679,21.078760289007,-12.9344341802441
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,54.736,-36.645906232864,22.5037257471139,21.0800374113716,-12.9290580796076
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,54.736,36.6504604629193,-22.5039791576084,-21.0947954500458,12.9418256126285
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,125.264,36.6552035459539,-22.5118855102941,-21.0982733929398,12.94058190253
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,54.736,-36.6426051502041,22.5157906507122,-21.0957268907061,12.9501477267451
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,125.264,36.6416174236904,-22.5088248208688,21.0796923170382,-12.9310688847457
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,125.264,-36.6407220505334,22.5022788134192,-21.0951925184031,12.9363160568779
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,125.264,-36.6383696821451,22.5055829028273,21.0777651910467,-12.9271419346131
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,0,90,-5.97414548954277e-18,3.68394438009399e-18,-1.73698261469147e-18,1.66665105493703e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,180,90,5.97569607859145e-18,-3.68270147092852e-18,-1.73753090767037e-18,1.66589307743174e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,90,90,4.47526277370439e-23,8.59225830480475e-23,-7.4691228856773e-19,1.60894969945141e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,-90,90,-1.77857654648769e-22,1.45660071484579e-22,-1.61723421735051e-18,8.92076521388933e-20
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,0,0,-4.55392063942904e-18,3.49214271188929e-18,9.51467792087099e-23,-3.162178033728e-22
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,0,180,-6.66638491915664e-18,3.40598711841779e-18,-6.25049904894753e-23,-4.5412533637796e-22
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,45,54.736,-3.64707437785058e-18,2.45579673992496e-18,-3.12346428602454e-18,1.55065513096669e-18
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,135,54.736,3.64791461290518e-18,-2.45530376229268e-18,-3.12358225572933e-18,1.55014608520913e-18
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,-45,54.736,-3.45997777440434e-18,2.45920507496975e-18,5.19051235731987e-19,-1.30977238352537e-18
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,45,125.264,-4.62090352937502e-18,2.42875404016143e-18,1.6395461390236e-18,-1.25672379153378e-18
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,-135,54.736,3.45923042266328e-18,-2.46052941220861e-18,5.19072116209376e-19,-1.31041294507465e-18
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,-45,125.264,-4.17975817586038e-18,2.4209096477993e-18,-3.87247321371784e-18,1.49536685861519e-18
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,135,125.264,4.61918917818869e-18,-2.42770871576154e-18,1.63922014553509e-18,-1.25603655274806e-18
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,-135,125.264,4.17950239782929e-18,-2.4207198332253e-18,-3.87204976232295e-18,1.4948887617172e-18
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,0,90,-1.66094625452743e-21,1.57534239189896e-22,1.73812986310802e-18,-1.6723154635466e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,180,90,1.82435687692653e-21,-1.82810031736003e-22,1.73816105450549e-18,-1.67537776480479e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,90,90,3.55726558777828e-23,-2.75697137880372e-23,1.61799617297919e-18,-8.95893000001277e-20
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,-90,90,-7.57949395936491e-24,6.3784666022947e-23,7.47992192257777e-19,-1.61054172879132e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,0,0,1.05460038677945e-18,4.37319273029565e-20,-3.24198974130002e-23,9.99218061324686e-23
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,0,180,-1.05775715852239e-18,-4.30835818720409e-20,2.18615658042991e-23,-4.18628514562349e-23
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,45,54.736,3.59387115115126e-19,1.9193486634028e-20,1.67687764089947e-18,-9.31245083622272e-20
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,135,54.736,-3.59347181411886e-19,-1.94913014843037e-20,1.6767688127942e-18,-9.30938032796965e-20
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,-45,54.736,4.84584535409487e-19,1.38323861220673e-20,7.43698948096072e-19,-1.47353918288053e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,45,125.264,-3.61524319755173e-19,-1.92321194273653e-20,1.67834002188492e-18,-9.3216262610152e-20
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,-135,54.736,-4.84676120458181e-19,-1.39274078944958e-20,7.43916774317726e-19,-1.4757331260346e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,-45,125.264,-4.87239433950632e-19,-1.32379144345335e-20,7.42429608337367e-19,-1.47123097563131e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,135,125.264,3.61685056456584e-19,1.9176537762327e-20,1.67812532188414e-18,-9.32806464436139e-20
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,-135,125.264,4.87166340990477e-19,1.31892387101529e-20,7.42249929931493e-19,-1.47094089618793e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [uv]","im(rETheta) [uv]"
+0.6406,180,90,0,90,-51.731939706689,31.8115625934266,9.73568743853859,-8.60300498843161
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [uv]","im(rETheta) [uv]"
+0.6406,180,90,180,90,51.7455843718732,-31.8011228757564,5.11999499196518,-11.4884664736243
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,90,90,555.676651854855,520.881591824021,6.5776577086547,272.54727127433
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,-90,90,-1.11751265269368,1.7693836079595,-6.56151337936738,-281.505732490344
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,0,-42.4762482812924,30.1504779982637,631.807008344929,-1.66793352582297
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,180,-54.1664972454201,29.4172067068741,-443.370152985959,-4.25453073533856
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,54.736,-32.0136403132793,21.2228972141743,-14.9752677492491,12.3256457522826
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,54.736,32.0200900877419,-21.2193474342591,-14.9769713159976,12.3211268830643
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,54.736,-32.0241197639524,21.2192178727594,14.9901810514306,-12.3353442372961
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,125.264,-36.6865320295396,20.9403522017025,24.4153806708929,-11.9076195069668
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,54.736,32.0168698252439,-21.2304706765764,14.9918663437303,-12.3431023819048
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,125.264,-36.6728791709404,20.9372214542303,-24.3974102191886,11.8965034167039
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,125.264,36.6732097226365,-20.9317040296477,24.4118517216579,-11.9026258999571
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,125.264,36.6699365929272,-20.9350526824102,-24.3951996828064,11.8923068720197
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [uv]","im(rETheta) [uv]"
+0.6406,180,90,0,90,-51.7299441323908,31.8082391748349,10.1717040079505,-6.19111094160359
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [uv]","im(rETheta) [uv]"
+0.6406,180,90,180,90,51.7423621920651,-31.7986175482596,5.84793022275411,-6.71360222549729
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,90,90,742.93838567648,1.13344376892542,-6.55446732952025,-270.312358102185
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,-90,90,-743.268026578422,1.44467050696961,6.57181128249331,267.078385795093
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,0,-54.1600425289345,29.4032324687138,625.17228230288,-1.7320244336857
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,180,-42.4798365906701,30.157163846395,24.5196521137181,-4.1633819231293
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,54.736,-36.6699470133455,20.9364195169269,-24.3960285489777,11.9006978338388
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,54.736,36.675489020548,-20.9300708966583,-24.396729709389,11.8951402007267
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,54.736,-36.6800984874525,20.9305458047172,24.4114604005714,-11.9047821548309
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,125.264,-32.0265352528291,21.2240400257862,14.9927377790774,-12.3297448663081
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,54.736,36.67261829568,-20.9414492654796,24.4115329201977,-11.9126399649998
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,125.264,-32.0146538642439,21.2213185568957,-14.9756179784184,12.3229211712819
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,125.264,32.0127455867168,-21.2146944344488,14.9905151401001,-12.3267734586834
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,125.264,32.011527969745,-21.2173932276743,-14.9742133658392,12.3197823160635
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [uv]","im(rETheta) [uv]"
+0.6406,180,90,0,90,-36.6597901734595,22.5870273063376,66.6278220128587,-30.8207449315752
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [uv]","im(rETheta) [uv]"
+0.6406,180,90,180,90,36.6692202549787,-22.579757576861,63.3425789665498,-32.5999890514781
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,90,90,443.58618934837,495.351735827797,3.02796201688067,90.7181652007146
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,-90,90,-750.892235264058,1.2108699448479,-2.23583257793689,-132.651748889049
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,0,-32.0401969336019,21.2921061195837,401.140654093881,-1.23613699955766
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,180,-36.696306551331,21.0025695555505,-190.900755354449,-3.04087887811433
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,54.736,-23.9143667625771,15.0279004889375,-12.2603036342697,8.66955969948281
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,54.736,23.9188692703609,-15.024942026284,-12.2613411048449,8.66604939229753
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,54.736,-22.9800152114373,15.0184013390944,11.9999675952337,-8.70776227337913
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,125.264,-25.9243189570556,14.9148046978315,16.4014400368946,-8.54023944632206
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,54.736,22.9748128316402,-15.0263831950651,12.00102620943,-8.71321346754488
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,125.264,-24.6891360608523,14.9083669825056,-15.3841917855781,8.49386644512501
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,125.264,25.9147686652554,-14.9085320670033,16.3990291682908,-8.53703085870649
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,125.264,24.6870594211625,-14.90653169888,-15.3827734105726,8.49106714853389
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [uv]","im(rETheta) [uv]"
+0.6406,180,90,0,90,36.6597901734595,-22.5870273063376,-66.6278220188503,30.8207449387388
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [uv]","im(rETheta) [uv]"
+0.6406,180,90,180,90,-36.6692202549787,22.579757576861,-63.3425789638009,32.599989056272
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,90,90,-443.586189384047,-495.351736296473,-3.0279620168713,-90.7181652002765
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,-90,90,750.89223522838,-1.21086994437923,2.23583257793145,132.651748888669
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,0,32.0401969336019,-21.2921061195837,-401.140654371195,1.23613699993708
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,180,36.696306551331,-21.0025695555505,190.900755077136,3.04087887773497
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,54.736,23.914366762577,-15.0279004889372,12.2603036342734,-8.66955969948044
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,54.736,-23.918869270361,15.0249420262843,12.2613411048388,-8.66604939229289
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,54.736,22.9800152114371,-15.0184013390942,-11.9999675952326,8.7077622733728
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,125.264,25.9243189570553,-14.9148046978317,-16.4014400368994,8.54023944632469
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,54.736,-22.9748128316405,15.0263831950653,-12.0010262094261,8.71321346755066
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,125.264,24.6891360608522,-14.9083669825059,15.3841917855826,-8.49386644512319
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,125.264,-25.9147686652556,14.9085320670031,-16.3990291682945,8.53703085870213
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,125.264,-24.6870594211626,14.9065316988796,15.3827734105668,-8.49106714852898
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [uv]","im(rETheta) [uv]"
+0.6406,180,90,0,90,-36.6615768710313,22.5861956078095,-52.9057364928885,19.4348927183504
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [uv]","im(rETheta) [uv]"
+0.6406,180,90,180,90,36.6711424644052,-22.5788614485315,-56.0918111846418,17.8490958516416
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,90,90,401.739393923823,439.254314895797,2.24600803629224,127.302270479383
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,-90,90,-714.08905708745,1.20269897000253,-3.0153831288423,-96.1683052989595
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,0,-32.0412433347548,21.2909145961423,490.807831582231,-1.15528446124415
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,180,-36.6985643614364,21.0017640541042,-285.857126598662,-2.97314599121988
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,54.736,-22.973638874186,15.020739585337,-11.9906687557553,8.70130590841025
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,54.736,22.9780173727931,-15.0178036830831,-11.9917316289667,8.6980758866184
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,54.736,-23.9227273388263,15.0243890070151,12.2718985054791,-8.67506299771729
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,125.264,-24.6999676242496,14.9099333807581,15.3967276272134,-8.50060624202458
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,54.736,23.9175710920566,-15.0322596147417,12.2727277621504,-8.68064267802387
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,125.264,-25.916407268238,14.9121076497838,-16.3891859751715,8.53272972452738
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,125.264,24.6904495252282,-14.9037070189228,15.3945261359143,-8.49733952397519
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,125.264,25.914242865005,-14.9103290936818,-16.3877192480896,8.52988779494254
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [uv]","im(rETheta) [uv]"
+0.6406,180,90,0,90,-36.6598567797362,22.5863668442684,-52.7175336096872,18.8205160933883
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [uv]","im(rETheta) [uv]"
+0.6406,180,90,180,90,36.6687865020823,-22.5794035874014,-55.8727453098808,18.056906001725
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,90,90,500.778279940667,734.518495289317,-3.01067933908135,-90.3842869803955
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,-90,90,-596.500666532715,1.07508534965264,2.24165309470267,121.559414754637
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,0,-36.6936227921538,20.9941727451593,406.781474402734,-1.27231207221395
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,180,-32.0434185528161,21.2987272291983,1.90975247666949,-2.97347562039902
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,54.736,-25.9139383180032,14.9126876671094,-16.3881722167984,8.53472154064022
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,54.736,25.9180657250859,-14.9085815895406,-16.3887689879272,8.53082811453597
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,54.736,-24.6953494513089,14.9047253177191,15.3937735621072,-8.50169341247025
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,125.264,-23.9244346108854,15.0297067284546,12.2734854723065,-8.67442243788761
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,54.736,24.6900844880538,-14.9125778578084,15.3941047454055,-8.50715970623305
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,125.264,-22.9739756896776,15.0211092634456,-11.9909041653503,8.69878141601313
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,125.264,23.9146356718989,-15.0231498933976,12.2716445652889,-8.67199584928499
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,125.264,22.9718528509073,-15.0185904711952,-11.9897588345583,8.696368662595
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [uv]","im(rETheta) [uv]"
+0.6406,180,90,0,90,36.6615768710313,-22.5861956078095,52.9057364928885,-19.4348927183504
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [uv]","im(rETheta) [uv]"
+0.6406,180,90,180,90,-36.6711424644052,22.5788614485315,56.0918111846418,-17.8490958516416
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,90,90,-401.739393883975,-439.254314955337,-2.24600803629224,-127.302270479383
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,-90,90,714.089057127761,-1.20269896994275,3.0153831288423,96.1683052989595
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,0,32.0412433347548,-21.2909145961423,-490.807831540182,1.15528446118658
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,180,36.6985643614364,-21.0017640541042,285.857126640769,2.97314599127739
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,54.736,22.9736388741861,-15.020739585337,11.9906687557553,-8.70130590841027
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,54.736,-22.9780173727931,15.0178036830831,11.9917316289667,-8.69807588661837
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,54.736,23.9227273388263,-15.0243890070151,-12.2718985054791,8.67506299771728
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,125.264,24.6999676242495,-14.9099333807581,-15.3967276272135,8.50060624202459
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,54.736,-23.9175710920566,15.0322596147417,-12.2727277621503,8.68064267802387
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,125.264,25.9164072682381,-14.9121076497838,16.3891859751715,-8.53272972452735
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,125.264,-24.6904495252283,14.9037070189228,-15.3945261359143,8.49733952397518
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,125.264,-25.914242865005,14.9103290936817,16.3877192480896,-8.52988779494256
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [uv]","im(rETheta) [uv]"
+0.6406,180,90,0,90,-36.6597711537885,22.5844345342589,66.7760487638362,-28.3814268032669
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [uv]","im(rETheta) [uv]"
+0.6406,180,90,180,90,36.6688603574258,-22.5774480100594,63.6943038391261,-29.0933032110571
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,90,90,494.461765416576,688.632597824122,-2.2308947182577,-124.935169402875
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,-90,90,-570.167507872725,1.07959517743907,3.02361479447754,87.3226186221128
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,0,-36.6928074684752,20.992471116387,479.590215848887,-1.17107717415392
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,180,-32.0438990668363,21.2966054998008,-105.401512641977,-2.96672524514616
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,54.736,-24.6879243882687,14.9073580018623,-15.3835110793796,8.49698064437424
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,54.736,24.6919545271131,-14.903337165188,-15.3842130635655,8.49330824701069
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,54.736,-25.9209389138329,14.9077429697307,16.3991700431103,-8.53766460730052
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,125.264,-22.9829090316092,15.0217064205186,12.0023933509372,-8.70351970363819
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,54.736,25.9156612064708,-14.9154656733355,16.3994371105783,-8.54331131970678
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,125.264,-23.9159822371722,15.0263443715785,-12.2608444340778,8.66815776357801
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,125.264,22.9732661244859,-15.0152069861187,12.0006626066736,-8.70108532067394
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,125.264,23.9137169558712,-15.023846278482,-12.2597494360937,8.66577656390242
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [uv]","im(rETheta) [uv]"
+0.6406,180,90,0,90,36.6598567797362,-22.5863668442684,52.7175336096872,-18.8205160933883
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [uv]","im(rETheta) [uv]"
+0.6406,180,90,180,90,-36.6687865020823,22.5794035874014,55.8727453098808,-18.056906001725
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,90,90,-500.778280019899,-734.518495170932,3.01067933908135,90.3842869803955
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,-90,90,596.500666453019,-1.07508534977126,-2.24165309470267,-121.559414754637
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,0,36.6936227921538,-20.9941727451593,-406.781474486948,1.27231207232932
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,180,32.0434185528161,-21.2987272291983,-1.90975256088284,2.97347562028376
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,54.736,25.9139383180031,-14.9126876671095,16.3881722167984,-8.53472154064017
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,54.736,-25.918065725086,14.9085815895405,16.3887689879272,-8.53082811453602
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,54.736,24.695349451309,-14.904725317719,-15.3937735621071,8.50169341247027
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,125.264,23.9244346108855,-15.0297067284547,-12.2734854723064,8.6744224378876
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,54.736,-24.6900844880537,14.9125778578084,-15.3941047454056,8.50715970623304
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,125.264,22.9739756896775,-15.0211092634455,11.9909041653503,-8.69878141601318
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,125.264,-23.9146356718988,15.0231498933976,-12.271644565289,8.67199584928501
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,125.264,-22.9718528509074,15.0185904711953,11.9897588345582,-8.69636866259495
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [uv]","im(rETheta) [uv]"
+0.6406,180,90,0,90,36.6597711537885,-22.5844345342589,-66.7760487646807,28.3814268021113
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [uv]","im(rETheta) [uv]"
+0.6406,180,90,180,90,-36.6688603574258,22.5774480100594,-63.6943038382816,29.0933032099015
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,90,90,-494.461765360511,-688.632597748133,2.23089471825658,124.935169403765
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,-90,90,570.16750792879,-1.07959517751553,-3.02361479447642,-87.3226186212228
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,0,36.6928074684752,-20.992471116387,-479.590215754364,1.1710771741589
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,180,32.0438990668363,-21.2966054998008,105.4015127365,2.96672524514118
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,54.736,24.6879243882687,-14.9073580018622,15.3835110793807,-8.4969806443738
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,54.736,-24.6919545271131,14.9033371651881,15.3842130635656,-8.49330824701182
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,54.736,25.9209389138328,-14.9077429697307,-16.3991700431094,8.53766460729985
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,125.264,22.9829090316091,-15.0217064205186,-12.0023933509362,8.70351970363752
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,54.736,-25.9156612064708,14.9154656733355,-16.3994371105792,8.54331131970612
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,125.264,23.9159822371722,-15.0263443715786,12.2608444340777,-8.66815776357913
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,125.264,-22.973266124486,15.0152069861187,-12.0006626066745,8.70108532067327
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,125.264,-23.9137169558712,15.0238462784819,12.2597494360926,-8.66577656390198
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,0,90,-9.48519916737068,7.30933180715477,13.624422659619,-1.40005485656381
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,180,90,9.89338025601844,-7.78148971736281,13.6245722143774,-1.40193799278297
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,90,90,312.751181391191,-22.3116674798918,10.8192546639725,-1.04431397980071
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-90,90,208.167003574705,424.594700356384,10.8160567875227,-1.04757392222834
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [uv]","re(rETheta) [nV]","im(rETheta) [nV]"
+0.6406,180,90,0,0,-8.64753297126148,6.90790022789907,-272.000116415774,809.56884065513
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [uv]","re(rETheta) [nV]","im(rETheta) [nV]"
+0.6406,180,90,0,180,-9.93673252597815,8.86492723634687,270.591427356076,-392.112655564971
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,54.736,-67.5263513968787,27.9595086465624,10.1727925482562,-1.00174919435919
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,54.736,67.2080896901672,-28.8528014507295,10.1722622401749,-1.00212892211623
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,54.736,53.0964054562566,-19.0382359535972,10.1800450620444,-1.00843244115022
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,125.264,53.843723665536,-20.0035918350246,10.1820351739881,-1.00723463834731
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,54.736,-53.9212436366011,18.807368826169,10.1814594930352,-1.01023329971936
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,125.264,-67.2535455795791,31.5810437754408,10.1733144984176,-1.00247629886835
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,125.264,-52.5743159635246,19.7945886485628,10.180994810275,-1.00841005797912
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,125.264,66.5997593543074,-31.0874116891044,10.1716754297629,-1.00208054134087
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,0,90,-9.48519916872629,7.3093318081418,13.624422659619,-1.40005485656381
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,180,90,9.89338025737386,-7.78148971637582,13.6245722143774,-1.40193799278297
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,90,90,312.751181242833,-22.3116673714685,10.8192546639725,-1.04431397980071
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-90,90,208.167003723063,424.594700464807,10.8160567875227,-1.04757392222834
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [uv]","re(rETheta) [nV]","im(rETheta) [nV]"
+0.6406,180,90,0,0,-8.64753297272713,6.90790022870508,-272.000116306714,809.568840507091
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [uv]","re(rETheta) [nV]","im(rETheta) [nV]"
+0.6406,180,90,0,180,-9.9367325274439,8.8649272355404,270.591427246957,-392.112655712895
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,54.736,-67.5263513965699,27.9595086476569,10.1727925482563,-1.00174919435847
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,54.736,67.2080896891884,-28.8528014502587,10.1722622401755,-1.00212892211664
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,54.736,53.0964054552851,-19.0382359540189,10.1800450620451,-1.00843244114989
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,125.264,53.8437236653187,-20.003591836204,10.182035173988,-1.00723463834663
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,54.736,-53.9212436363842,18.8073688249897,10.1814594930352,-1.01023329972004
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,125.264,-67.2535455786029,31.5810437759114,10.1733144984182,-1.00247629886794
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,125.264,-52.5743159625518,19.7945886481413,10.1809948102757,-1.00841005797945
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,125.264,66.5997593539986,-31.0874116880102,10.171675429763,-1.00208054134159
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,0,90,-2.42388355408566,9.18819582697569,10.808144477201,-1.04305879564733
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,180,90,2.03733151904807,-9.70416487429233,10.8082509137144,-1.04392504288698
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,90,90,209.576918113479,110.158923970022,4.65364082982516,-1.00088603015732
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,-90,90,411.171575475285,254.947481539015,10.0589464554764,-560.648727528272
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [uv]","re(rETheta) [nV]","im(rETheta) [nV]"
+0.6406,180,90,0,0,-6.5697450822423,-262.730138607436,-214.384030125672,656.266865840875
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [uv]","re(rETheta) [nV]","im(rETheta) [nV]"
+0.6406,180,90,0,180,6.56387923467811,280.63552224759,334.102381795441,-242.529753148099
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,45,54.736,-3.02547556769505,-79.5025458276657,4.61863694280385,-913.584975940004
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,135,54.736,3.02467038242973,80.0379986586898,4.61857094435175,-914.275407029979
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,-45,54.736,-2.24256572985843,-113.7965520464,10.4314248181731,-585.12508439245
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,45,125.264,3.02000976049769,90.7277337271244,4.62238799140214,-920.483946748073
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,-135,54.736,2.24189813494516,113.957028804256,10.4320578516691,-586.613742577631
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,-45,125.264,2.23968509459175,127.553323642892,10.430194252909,-578.315362378884
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,135,125.264,-3.01920303192211,-90.6978634546683,4.62219356639337,-921.908252580893
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,-135,125.264,-2.24018004120037,-126.512817686077,10.4288595476977,-577.986655868033
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,0,90,-10.3284848339741,979.618624243012,10.8084409173919,-1.03991785302915
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [uv]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,180,90,11.3446454279979,-1.13679131896652,10.8086348841337,-1.04182211431825
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,90,90,221.201243471578,-171.436356964056,10.0613978286535,-557.104899221292
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-90,90,-47.1318602778881,396.641055201279,4.65133796363589,-1.00150427218841
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [uv]","re(rETheta) [nV]","im(rETheta) [nV]"
+0.6406,180,90,0,0,6.55795991616963,271.943993166671,-201.610428381126,621.36144632927
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [uv]","re(rETheta) [nV]","im(rETheta) [nV]"
+0.6406,180,90,0,180,-6.5775900703325,-267.912274346795,135.953087354253,-260.321668679523
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,45,54.736,2.23482403157707,119.353375118613,10.4275481820078,-579.088353822052
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,135,54.736,-2.23457570375148,-121.205311639834,10.426871435319,-578.897401384125
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,-45,54.736,3.01335557249832,86.015744299662,4.62464072096228,-916.310192422282
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,45,125.264,-2.24811410037069,-119.59361603949,10.4366419115696,-579.658904430999
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,-135,54.736,-3.01392509291798,-86.606621731462,4.62599525325653,-917.674478535731
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,-45,125.264,-3.0298648848653,-82.3190643490307,4.61674741066555,-914.874866807727
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,135,125.264,2.24911362435751,119.247977190323,10.4353067925523,-580.059293129307
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,-135,125.264,3.02941035318688,82.0163699774564,4.61563009171306,-914.694492239102
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,0,90,-3.16735098592102e-18,1.94757265879265e-18,-5.05640070566629e-19,5.14979168913709e-20
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,180,90,3.16817090843243e-18,-1.94691603915468e-18,-5.05928794625585e-19,5.13901877681231e-20
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,90,90,2.26645525786852e-23,3.28874202250732e-23,7.73689063945888e-22,5.54928182984062e-20
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,-90,90,-7.63350715499961e-23,9.25051845203052e-23,-8.03622874367624e-19,2.16855648674257e-20
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,0,0,-2.60062807837575e-18,1.84587860929777e-18,4.85193446118899e-23,-1.32057188678732e-22
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,0,180,-3.31641023705994e-18,1.80090797457992e-18,-3.64141749494079e-23,-2.46155085620358e-22
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,45,54.736,-1.95849167178886e-18,1.29847265713945e-18,-1.3010369154591e-18,7.91939665395802e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,135,54.736,1.9588988323765e-18,-1.29822133099752e-18,-1.30112078951901e-18,7.91677121510967e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,-45,54.736,-1.96219771161833e-18,1.2999568757101e-18,5.33587075334481e-19,-7.17821963061598e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,45,125.264,-2.24912683460444e-18,1.28295227582481e-18,1.12269228052852e-18,-6.91691978767694e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,-135,54.736,1.96178410609059e-18,-1.30063780140375e-18,5.33638138276615e-19,-7.18229899343479e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,-45,125.264,-2.24239420198945e-18,1.28081241815634e-18,-1.86592181918519e-18,7.65672756876229e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,135,125.264,2.24826324633353e-18,-1.28241508567616e-18,1.12251372070173e-18,-6.91342846506696e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,-135,125.264,2.24223828338512e-18,-1.28069756551018e-18,-1.86572557254999e-18,7.65400698561342e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,0,90,3.16593925968705e-18,-1.94678604538657e-18,2.12231184579654e-18,-2.1777591234108e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,180,90,-3.16663780962363e-18,1.94612257636436e-18,2.12259764815563e-18,-2.1804162785531e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,90,90,4.35608602758248e-24,-7.21874338771345e-23,2.08700839665871e-18,-1.46187264451149e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,-90,90,7.72532238463175e-23,-2.25084007912158e-23,1.28286970183084e-18,-1.79593728694296e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,0,0,3.31489557376706e-18,-1.79956522991808e-18,-8.17933553609937e-23,2.32866515283499e-22
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,0,180,2.59945123505636e-18,-1.84542725434598e-18,4.39661901961443e-23,1.92946047616383e-22
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,45,54.736,2.23186019343922e-18,-1.27769817449093e-18,3.05368378349733e-18,-8.8485585242627e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,135,54.736,-2.23224752052983e-18,1.27717343512395e-18,3.05364721146084e-18,-8.84574531052509e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,-45,54.736,2.2571314461552e-18,-1.28482706882786e-18,6.63619414110776e-20,5.71952953043866e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,45,125.264,1.96638248724049e-18,-1.30279450756933e-18,6.93943567207087e-19,5.98078674875899e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,-135,54.736,-2.25680334320226e-18,1.28545677837563e-18,6.65796597755297e-20,5.72154383247819e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,-45,125.264,1.95273459183741e-18,-1.29473232938272e-18,2.52756543010642e-18,-9.10894237268324e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,135,125.264,-1.96534306261964e-18,1.30218916013739e-18,6.93912877031372e-19,5.97712291908597e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [V]","im(rEPhi) [V]","re(rETheta) [V]","im(rETheta) [V]"
+0.6406,180,90,-135,125.264,-1.95264516980975e-18,1.2945705707866e-18,2.52722395831321e-18,-9.10642035942827e-19
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,0,90,21.0924849261314,-12.970186622477,10.179885141503,-1.01330837061064
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,180,90,-21.0979536571703,12.9655827440894,10.1818761694094,-1.0133884493077
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,90,90,-35.3024707999141,-232.652193727155,4.63218980718668,-935.2622409307
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,-90,90,713.116512941762,-416.554912652074,10.4370515711336,-581.738678274059
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,0,14.9954034373575,-12.3661050868864,-433.062235512619,1.32329978897558
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,180,24.4092418168377,-11.9196987696959,363.006571753647,1.47747384309973
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,54.736,12.2600929600834,-8.66540773105886,13.0808333289379,-5.80470176586853
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,54.736,-12.263198599305,8.66365327693821,13.0811950799625,-5.80318156705812
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,54.736,11.9957303252754,-8.6940914966982,2.15644914634776,4.34600428315184
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,125.264,16.3957431017093,-8.53009605238305,-3.50558247748508,4.07793829376677
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,54.736,-11.9933696329906,8.69869664939892,2.15667217080015,4.34775660130117
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,125.264,15.3847060301442,-8.4886278719159,17.7373886465348,-5.53149353278009
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,125.264,-16.3893774817782,8.52643509230996,-3.50465587092846,4.07495909649545
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,125.264,-15.3840026145669,8.48827504210752,17.7353083154177,-5.52956405545527
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,0,90,21.0924849261314,-12.970186622477,10.179885141503,-1.01330837061064
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,180,90,-21.0979536571703,12.9655827440894,10.1818761694094,-1.0133884493077
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,90,90,-35.3024707999141,-232.652193727155,4.63218980718668,-935.2622409307
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,-90,90,713.116512941762,-416.554912652074,10.4370515711336,-581.738678274059
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,0,14.9954034373575,-12.3661050868864,-433.062235512619,1.32329978897569
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,180,24.4092418168377,-11.9196987696959,363.006571753647,1.47747384309973
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,54.736,12.2600929600834,-8.66540773105886,13.0808333289379,-5.80470176586853
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,54.736,-12.263198599305,8.66365327693821,13.0811950799625,-5.80318156705812
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,54.736,11.9957303252754,-8.6940914966982,2.15644914634776,4.34600428315184
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,125.264,16.3957431017093,-8.53009605238305,-3.50558247748508,4.07793829376677
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,54.736,-11.9933696329906,8.69869664939892,2.15667217080015,4.34775660130117
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,125.264,15.3847060301442,-8.4886278719159,17.7373886465348,-5.53149353278009
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,125.264,-16.3893774817782,8.52643509230996,-3.50465587092846,4.07495909649545
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,125.264,-15.3840026145669,8.48827504210752,17.7353083154177,-5.52956405545527
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,0,90,-21.1063386151726,12.9814276482773,10.1882117387197,-1.01831967384671
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,180,90,21.1125017596188,-12.9774692752947,10.1865318534471,-1.02086808587267
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,90,90,455.754610289825,155.701570040906,10.4458165267057,-581.853972657389
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,-90,90,-366.220779043518,1.04395315893704,4.63703164043188,-940.003230627873
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [nV]"
+0.6406,180,90,0,0,-15.007781104053,12.3763728088459,87.0882928990418,-68.2664550567557
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,180,-24.4240966120269,11.9332156774545,-18.1112236014154,-1.98768432334217
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,54.736,-12.0008633182545,8.70228670280838,2.15777207511751,4.34825780552654
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,54.736,12.0033962937446,-8.7018735291845,2.15661175856748,4.34635730160715
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,54.736,-12.2759453836263,8.6708590761889,13.0930414431007,-5.81230504290228
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,125.264,-15.3997040522288,8.49850748288088,17.7511738014991,-5.53825574200276
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,54.736,12.2724021818267,-8.67575416455242,13.0947253798415,-5.81683532801229
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,125.264,-16.4006456971013,8.53786467355197,-3.50423490581851,4.07860520536043
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,125.264,15.3952169291512,-8.49517998666596,17.7488674117133,-5.53698782997041
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,125.264,16.3989370000394,-8.53682594486709,-3.50454298248868,4.07721948485607
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,0,90,-21.1020625310489,12.9844963091467,10.1882007371214,-1.02024380507066
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,180,90,21.1071310038188,-12.9809406422933,10.1864824988333,-1.02180615411027
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,90,90,513.672900903519,476.132154723089,4.64206351771439,-934.930360646174
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,-90,90,-67.7589339326327,895.045626910025,10.4409467374013,-588.416533124078
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [nV]"
+0.6406,180,90,0,0,-24.4175084030545,11.9297711492222,26.704181950258,-113.593325348093
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,180,-15.0071691820375,12.3847517236263,268.882107834334,-1.98449083975299
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,54.736,-16.39757167435,8.53755150016,-3.50316471547526,4.08037792111365
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,54.736,16.3994297648405,-8.5352217544337,-3.50372675973972,4.07764079042337
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,54.736,-15.3949892289568,8.4980827824134,17.7464013545978,-5.541779447233
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,125.264,-12.2737558876662,8.67503625128752,13.0937982854231,-5.81295839070639
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,54.736,15.3913248742708,-8.50259465347616,17.7474360231567,-5.54630106952523
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,125.264,-11.9989705192006,8.70725548555136,2.15889323047375,4.3463267761834
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,125.264,12.2689917237157,-8.671327134662,13.092260877819,-5.81271082278099
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,125.264,11.9972640558755,-8.70509320954729,2.1582869329392,4.34525772014146
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,0,90,-21.1063386151726,12.9814276482773,10.1882117387197,-1.01831967384671
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,180,90,21.1125017596188,-12.9774692752947,10.1865318534471,-1.02086808587267
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,90,90,455.754610289825,155.701570040906,10.4458165267057,-581.853972657389
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [uv]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,-90,90,-366.220779043518,1.04395315893704,4.63703164043188,-940.003230627873
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [nV]"
+0.6406,180,90,0,0,-15.007781104053,12.3763728088459,87.0882928944084,-68.2664550532806
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,180,-24.4240966120269,11.9332156774545,-18.1112236061647,-1.98768432334553
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,54.736,-12.0008633182545,8.70228670280838,2.15777207511751,4.34825780552654
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,54.736,12.0033962937446,-8.7018735291845,2.15661175856748,4.34635730160715
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,54.736,-12.2759453836263,8.6708590761889,13.0930414431007,-5.81230504290228
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,125.264,-15.3997040522288,8.49850748288088,17.7511738014991,-5.53825574200276
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,54.736,12.2724021818267,-8.67575416455242,13.0947253798415,-5.81683532801229
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,125.264,-16.4006456971013,8.53786467355197,-3.50423490581851,4.07860520536043
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,125.264,15.3952169291512,-8.49517998666596,17.7488674117133,-5.53698782997041
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,125.264,16.3989370000394,-8.53682594486709,-3.50454298248868,4.07721948485607
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,0,90,21.0877336434546,-12.9740150360173,10.1799711365739,-1.01315662463801
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,180,90,-21.0922961190881,12.9697553441984,10.1818777917173,-1.0144095770668
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,90,90,-53.6803094268241,-486.748792520822,10.4366166633366,-583.468014988502
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,-90,90,370.787400546128,-268.468529898319,4.63237498879219,-934.742337538175
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,0,24.4040084946684,-11.9200354463722,-478.048798857389,1.27166472799832
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,180,14.9923940490728,-12.3717089365167,228.421987430893,1.42163113097302
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,54.736,15.3809834640092,-8.49418020935286,17.7351861141994,-5.53394963835963
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,54.736,-15.3832690350987,8.49060547178257,17.7350583797681,-5.5318783777166
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,54.736,16.3896679946991,-8.52889812178068,-3.50357064496287,4.07864070775946
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,125.264,11.9943469789132,-8.70001665078439,2.15870291101141,4.34706356765817
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,54.736,-16.3872209162825,8.53296000889513,-3.50251083434649,4.08057016004501
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,125.264,12.2584040175292,-8.6654266714243,13.0800880722831,-5.80527153641308
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,125.264,-11.9878428032104,8.69602930868608,2.15862559091877,4.34505303862398
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,125.264,-12.2575718903935,8.66401274882663,13.0783072806552,-5.80366971203895
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,0,90,-21.1020625310489,12.9844963091467,10.1882007371214,-1.02024380507066
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,180,90,21.1071310038188,-12.9809406422933,10.1864824988333,-1.02180615411027
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,90,90,513.672900903519,476.132154723089,4.64206351771439,-934.930360646174
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,-90,90,-67.7589339326327,895.045626910025,10.4409467374013,-588.416533124078
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [nV]"
+0.6406,180,90,0,0,-24.4175084030545,11.9297711492222,26.704181950258,-113.593325348093
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,180,-15.0071691820375,12.3847517236263,268.882107834334,-1.98449083975299
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,54.736,-16.39757167435,8.53755150016,-3.50316471547526,4.08037792111365
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,54.736,16.3994297648405,-8.5352217544337,-3.50372675973972,4.07764079042337
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,54.736,-15.3949892289568,8.4980827824134,17.7464013545978,-5.541779447233
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,125.264,-12.2737558876662,8.67503625128752,13.0937982854231,-5.81295839070639
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,54.736,15.3913248742708,-8.50259465347616,17.7474360231567,-5.54630106952523
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,125.264,-11.9989705192006,8.70725548555136,2.15889323047375,4.3463267761834
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,125.264,12.2689917237157,-8.671327134662,13.092260877819,-5.81271082278099
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,125.264,11.9972640558755,-8.70509320954729,2.1582869329392,4.34525772014146
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,0,90,21.0877336434546,-12.9740150360173,10.1799711365739,-1.01315662463801
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,180,90,-21.0922961190881,12.9697553441984,10.1818777917173,-1.0144095770668
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,90,90,-53.6803094268241,-486.748792520822,10.4366166633366,-583.468014988502
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [nV]","im(rEPhi) [nV]","re(rETheta) [mV]","im(rETheta) [uv]"
+0.6406,180,90,-90,90,370.787400546128,-268.468529898319,4.63237498879219,-934.742337538175
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,0,24.4040084946684,-11.9200354463722,-478.048798857389,1.27166472799832
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [nV]","im(rETheta) [uv]"
+0.6406,180,90,0,180,14.9923940490728,-12.3717089365167,228.421987430893,1.42163113097302
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,54.736,15.3809834640092,-8.49418020935286,17.7351861141994,-5.53394963835963
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,54.736,-15.3832690350987,8.49060547178257,17.7350583797681,-5.5318783777166
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,54.736,16.3896679946991,-8.52889812178068,-3.50357064496287,4.07864070775946
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,45,125.264,11.9943469789132,-8.70001665078439,2.15870291101141,4.34706356765817
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,54.736,-16.3872209162825,8.53296000889513,-3.50251083434649,4.08057016004501
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-45,125.264,12.2584040175292,-8.6654266714243,13.0800880722831,-5.80527153641308
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,135,125.264,-11.9878428032104,8.69602930868608,2.15862559091877,4.34505303862398
+"Freq [GHz]","IWavePhi [deg]","IWaveTheta [deg]","Phi [deg]","Theta [deg]","re(rEPhi) [mV]","im(rEPhi) [mV]","re(rETheta) [mV]","im(rETheta) [mV]"
+0.6406,180,90,-135,125.264,-12.2575718903935,8.66401274882663,13.0783072806552,-5.80366971203895

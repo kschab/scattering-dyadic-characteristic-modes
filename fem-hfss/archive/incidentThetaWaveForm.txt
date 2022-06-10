@@ -1,0 +1,21 @@
+oModule.AssignPlaneWave(
+	[
+		"NAME:IncPWavexxNxx",
+		"IsCartesian:="		, False,
+		"PhiStart:="		, "xxPHIxxdeg",
+		"PhiStop:="		, "xxPHIxxdeg",
+		"PhiPoints:="		, 1,
+		"ThetaStart:="		, "xxTHETAxxdeg",
+		"ThetaStop:="		, "xxTHETAxxdeg",
+		"ThetaPoints:="		, 1,
+		"EoPhi:="		, "0",
+		"EoTheta:="		, "1",
+		"OriginX:="		, "0mm",
+		"OriginY:="		, "0mm",
+		"OriginZ:="		, "0mm",
+		"IsPropagating:="	, True,
+		"IsEvanescent:="	, False,
+		"IsEllipticallyPolarized:=", False
+	])
+    
+
