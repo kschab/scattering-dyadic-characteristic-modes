@@ -6,7 +6,7 @@ close all
 clc
 
 loadname='example';
-loadname=strcat(loadname,'_tn');
+loadname=strcat(loadname,'_tn'); %substructure2
 
 load(loadname)
 
@@ -40,7 +40,7 @@ while m <= plotmodes
             
             figure(2)
             ax2.ColorOrderIndex = m;
-            plot(ka,abs(tt(m,:)))
+            plot(ka,(abs(tt(m,:))))
             
             figure(3)
             ax3.ColorOrderIndex = m;

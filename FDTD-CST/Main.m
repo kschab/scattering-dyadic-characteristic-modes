@@ -217,17 +217,17 @@ for n=1:length(fss)
     
     % Scattering dyadics
     S2 = [Fs_th_th, Fs_th_ph; Fs_ph_th, Fs_ph_ph]; %Assemble the scattering matrix
-    
+    S2=S2.';
     LQ   = [lq_weights; lq_weights];
     LQs  = sqrt(LQ);
     SLQ2 = LQs .* S2 .* LQs.'; %compensate using the lebedev weights
-    
+    SLQ2=-1j*2*pi*fss(n)*1e9/c/(4*pi)*SLQ2;
     [Pn, lam] = eig(SLQ2,'Vector');
     [lam, ind] = sort(lam,'descend','ComparisonMethod','abs');
     Pn = Pn(:, ind);
     
     Pns(:,:,n)=Pn;
-    t3(:,n) = -1j*2*pi*fss(n)*1e9/c/(4*pi) *(lam);
+    t3(:,n) = lam;
 end
 
 %%

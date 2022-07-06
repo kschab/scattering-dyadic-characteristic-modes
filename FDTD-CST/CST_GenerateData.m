@@ -19,12 +19,12 @@ addpath(genpath('../shared/bin'))
 %%----------------------------------
 %General Setup
 %
-CSTfile='FilledCellphoneSimpleModel'%'FilledDieleclosslessCellphoneSimpleModel_PEC_oneSided_ThinPEC'; %CST file to open and run, geometry/design only. In the current folder.
+CSTfile='LayeredDielectricSphere' %CST file to open and run, geometry/design only. In the current folder.
 savename='example';
 
-a= sqrt((150/2)^2+(75/2)^2+(5.5/2)^2)/1000; %Largest enscribing radius of the design in meter.
+a= 4.771345159236943/1000; %Largest enscribing radius of the design in meter.
 d=200; %distance to the far probes in units of 'a'
-nLebedev= 14; %Number of levedev points around the object. Example of accepted values are 6, 14, 26, 38, 50, 74, 86, 110, 146, 170.
+nLebedev= 6; %Number of levedev points around the object. Example of accepted values are 6, 14, 26, 38, 50, 74, 86, 110, 146, 170.
 plotmodes=2*nLebedev; %Maximal number of modes to plot, up to 2*nLebedev, if |t_n| at the end of the frequency interval is less than 0.01 then it is ignored for plotting.
 npulses=40; % Max number of pulses in time domain, default CST is 20.
 
@@ -33,8 +33,8 @@ npulses=40; % Max number of pulses in time domain, default CST is 20.
 %-----------------------------------
 funit='GHz'; %Frequency unit
 ffactor=1e9; %Frequency unit
-fmin=0.3; %minimal frequency in funit
-fmax=0.9; %maximal frequency in funit
+fmin=5; %minimal frequency in funit
+fmax=40; %maximal frequency in funit
 fs=2001; %frequency samples
 fcenter=10; %center frequency in funit, frequency corresponding to ka=1 for the examples included
 
@@ -42,8 +42,8 @@ AR=0; %AR filter on the signals (default setting is off (0))
 %%----------------------------------
 %BasicMesh Settings
 %-----------------------------------
-CellsPerWavelenth=50;
-NearCellsPerWavelenth=50;
+CellsPerWavelenth=30;
+NearCellsPerWavelenth=30;
 FarCellsPerWavelenth=1;
 MinimumCell=1;
 
@@ -143,7 +143,7 @@ for pn=1:2*nLebedev
     CstDefineTimedomainSolver(mws,-40,AR,fs,npulses)  %Starts the time-domain solver
     
     savepath=pwd; %location where the intermediate results will be saved
-    
+    pause(0.1)
     CstExportFarProbeTXT(mws,AR,savepath); %Locates the results and saves all probe data, real and imaginary for all frequencies.
     
     fileID = fopen('real.txt'); %Opens the file containing the real values
@@ -159,7 +159,7 @@ for pn=1:2*nLebedev
     end
     
     E_scat(:,:,:,pn)=real1([map],:,:)+1j*imag1([map],:,:);
-    
+    pause(0.1)
     invoke(mws,'DeleteResults') %Deletes the data in CST
     %Estimate remaining simulation time
     timer=toc;
@@ -175,7 +175,7 @@ end
 invoke(mws,'Quit'); %Closes the file in CST
 delete(mws) %deletes the connection to matlab
 
-save(savename, "E_scat","ka","fss","nLebedev") %Saves the data for further usage.
+save(savename, "E_scat","a","d","ka","fss","nLebedev") %Saves the data for further usage. Should include E_scat, a, d, nLebedev, fss, ka
 
 
 

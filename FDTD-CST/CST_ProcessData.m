@@ -16,13 +16,11 @@ load(loadname) %Should include E_scat, a, d, nLebedev, fss, ka
 plotmodes=2*nLebedev; %Maximal number of modes to plot, up to 2*nLebedev, if max |t_n| is less than 0.01 then it is ignored for plotting.
 
 c=299729458;
-fss=linspace(fmin,fmax,fs);
-ka=2*pi*fss/c*a*ffactor;
-
 
 leb = getLebedevSphere(nLebedev);%Obtain the position and the weigths of the lebedev https://www.mathworks.com/matlabcentral/fileexchange/27097-getlebedevsphere
 P_xyz = [leb.x leb.y leb.z];
 lq_weights = leb.w;
+
 
 Probe_xyz=P_xyz*a*d*1000; %Positions for the far field probes d*a is considered far away (CST farfield carries a unit of V/m)
 
@@ -41,17 +39,18 @@ for n=1:length(fss)
     
     % Scattering dyadics
     S2 = [Fs_th_th, Fs_th_ph; Fs_ph_th, Fs_ph_ph]; %Assemble the scattering matrix
-    
+    S2=S2.';
     LQ   = [lq_weights; lq_weights];
     LQs  = sqrt(LQ);
     SLQ2 = LQs .* S2 .* LQs.'; %compensate using the lebedev weights
-    
+    SLQ2=-1j*2*pi*fss(n)*1e9/c/(4*pi)*SLQ2;
+
     [Pn, lam] = eig(SLQ2,'Vector');
     [lam, ind] = sort(lam,'descend','ComparisonMethod','abs');
     Pn = Pn(:, ind);
     
     Pns(:,:,n)=Pn;
-    t3(:,n) = -1j*2*pi*fss(n)*1e9/c/(4*pi) *(lam);
+    t3(:,n) = (lam);
 end
 
 %%
