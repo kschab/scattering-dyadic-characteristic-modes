@@ -5,7 +5,7 @@
 # Table of Contents
 - [Overview](#overview)
 - [FEM with HFSS](#finite-element-method-with-ansys-hfss)
-- [MoM with FEKO](#finite-element-method-and-method-of-moments-with-altair-feko)
+- [MoM and FEM with FEKO](#finite-element-method-and-method-of-moments-with-altair-feko)
 - [FDTD with CST](#finite-difference-time-domain-with-cst)
 - [FEM with Comsol](#finite-element-method-with-comsol-multiphysics)
 - [References](#references)
