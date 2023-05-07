@@ -10,7 +10,7 @@ function [F_n, t_n, W] = decomposeScatteringDyadic(S, k0, w)
 % Outputs:
 %    F_n ~ eigen-vectors
 %    t_n ~ eigen-numbers (correspond to char. values of transition matrix)
-%    W   ~ normalization matrix (containing quadrature weights)
+%    W   ~ normalization matrix (contdyaining quadrature weights)
 % 
 % (c) 2022, Miloslav Capek, CTU in Prague, miloslav.capek@fel.cvut.cz
 
