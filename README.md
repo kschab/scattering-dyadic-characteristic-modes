@@ -147,7 +147,7 @@ Note that as the frequency or Lebedev degree are altered, the field overlay plot
 
 Altair FEKO disposes of several solvers which can be employed to get characteristic modes via decomposition of scattering dyadic. In this package, the following options are shown:
 - MoM (PEC obstacles)
-- MoM (surface equivalence)
+- MoM (surface equivalence, volumetric equivalence)
 - FEM (combined with MoM radiation boundary condition)
 
 There are several prerequisites to run the FEKO-related part of this package:
@@ -183,9 +183,16 @@ The MATLAB cell "Materials" contains a list of all used materials in the FEKO mo
 Degree of quadrature (MATLAB variable "nDegree"):
 Among others, the precision of the simulation is controlled by the density of the spatial discretization of the model, which is set in FEKO while preparing the CFM model, and by specifying the quadrature rule over the unit sphere used to algebraically approximate the spherical dyadic. For Lebedev quadrature, the available degrees are listed in bin.getLebedevSphere and/or bin.getLebedevDegrees. Higher degree means generally more modes of higher precision, however, at the cost of computational time linearly increasing with the degree of the quadrature. For particular case of Lebedev, the numerical value of a degree multiplied by two gives the number of plane wave excitations used for the evaluation. The degree has to be in accordance with the estimate (23) of [[1]](#references) to provide reasonably precise data. For the details, see [[1]](#references) and documentation of functions bin.getLebedevDegrees and bin.getLebedevSphere.
 
+There are several CMA solvers available:
+Call "feko_sd.m" to contruct complete scattering dyadic matrix and decompose it afterwards.
+Call "feko_icm.m" to iteratively construct only estimate of scattering dyadic matrix which is used for iterative decomposition. Much faster option than "feko_sd.m", see [[2]](#references).
+
+Both "feko_sd.m" and "feko_icm.m" solvers can be called either for full structure decomposition (use "options.eigSolver = 'std';"), or for substructure decomposition (use "options.eigSolver = 'subs';"). See the details in examples Ex4 and Ex5 and in [[3]](#references).
+
+
 ## Control variables (optional)
 
-The following control variables are at lines 1-4 in "feko_sd.m" and can be edited if needed.
+The following control variables are at lines 1-4 in "feko_sd.m" and can be edited if needed:
 
 batchLength (integer): controls how many frequency points are evaluated in one (potentially parallelized) FEKO batch. By default, batchLength = 20 (maximum number of student license).
 
@@ -194,6 +201,17 @@ deleteAuxFiles (logical value): decides whether all the auxiliary files created 
 preFEKOfileName (char/string): provides the prefix for naming of all the FEKO files created by the wrapper. By default, preFEKOfilaName = 'characteristicModeEvaluation'
 
 storeTempData (logical value): provides information to the wrapper whether the most time consuming data (columns of scattering dyadic) should be saved during the evaluation. This provides an useful backup if something goes wrong. By default, storeTempData = true
+
+Iterative solver "feko_icm.m" has many parameters to be chosen. They can all be set up before calling "feko_icm.m", see Ex4 and Ex5. The parameters are:
+options.nModes (integer): the number of modes iteratively constructured with precision "options.relativeError"
+
+options.relativeError (double): relative precision taken into account for constructing first "options.nModes" modes
+
+options.adaIters (integer): the frequency spectrum is iteratively refined at placed where the modes rapidly change their modal significance. This parameters controls the number of iterations.
+
+options.adaMSmax (double): if the modal significance changes more than "adaMSmax" between two consecutive frequency points, a new frequency sample is added.
+
+options.eigSolver (char/string): either 'std' for standard solver or 'subs' for substructure solver
 
 ## Examples
 
@@ -223,6 +241,12 @@ Example from Section IV.C of [[1]](#references). It is a sphere (a ball) of radi
 
 The same example as Ex3A, the layers are, however, made either of dielectric or magnetic material. The permittivity is epr_r = {1,5,1,2} and the permeability is nu_r = {3,1,8,1} (from the most inner to the most outer layer). Using the fine mesh grid, the calculation takes tens of hours.
 
+7/ Ex4_STD - Patch Antenna evaluated with classical characteristic mode decomposition (all parts are controllable).
+
+8/ Ex4_SUBS - The same example as Ex_STD, however, the ground plane is a background (uncontrollable) part and only the antenna motif is a subject of modal decomposition.
+
+9/ Ex5 - The same example as Ex4_SUBS with thin-layered dielectric substrate.
+
 Notice that the quadrature degree and discretization used are for demonstration purposes only. The precise results requires in some cases higher degree of finer mesh grid!
 
 ## Structure of the package
@@ -236,6 +260,8 @@ The naming space +bin contains routines used for multiple purposes (conversion f
 The naming space +feko contains the core functionality establishing link to FEKO solvers, automatically generating PREFEKO scripts, running them, and extracting data (mainly far-fields and current densities) from POSTFEKO files. It is not necessary to modify anything inside this package as there are two main scripts communicating with the naming spaces +bin and +feko.
 
 Script feko_sd.m is called by the examples created by the user (see the list above). The script feko_sd.m assemble all the input data and calls +feko routines to extract the scattering dyadics data.
+
+Script feko_icm.m is called by the exapmles created by the user (-//-). It is an implementation of iterative solver, see [[2]](#references).
 
 Script feko_cm.m is called when other characteristic quantities than far field have to be recovered. For examples, the characteristic current densities are recovered by this script by generating PREFEKO file utilizing plane wave sources according Fn characteristic vector.
 
@@ -347,6 +373,9 @@ The folder "FEM_Comsol" in its name space "+utilities" also contains several con
 
 # References
 
-[1] M. Capek, J. Lundgren, M. Gustafsson, K. Schab, and L. Jelinek, Characteristic Mode Decomposition Using the Scattering Dyadic in Arbitrary Full-Wave Solvers, submitted to IEEE Trans. AP, arxiv: [https://doi.org/10.48550/arXiv.2206.06783](https://doi.org/10.48550/arXiv.2206.06783)
+[1] M. Capek, J. Lundgren, M. Gustafsson, K. Schab, and L. Jelinek, Characteristic Mode Decomposition Using the Scattering Dyadic in Arbitrary Full-Wave Solvers, IEEE Transactions on Antennas and Propagation, Vol. 71, No. 1, pp. 830-839, 2023, arxiv: [https://doi.org/10.48550/arXiv.2206.06783](https://doi.org/10.48550/arXiv.2206.06783)
 
+[2] Lundgren, J., Schab, K., Capek, M., Gustafsson, M., Jelinek, L.: Iterative Calculation of Characteristic Modes Using Arbitrary Full-wave Solvers, IEEE Antennas and Wireless Propagation Letters, Vol. 22, No. 4, pp. 799-803,  2023, arxiv: [https://doi.org/10.48550/arXiv.2206.06783](https://doi.org/10.48550/arXiv.2206.06783)
+
+[3] Gustafsson, M., Jelinek, L., Capek, M., Lundgren, J., Schab, K.: Theory and Computation of Substructure Characteristic Modes, pp. 1-9, 2024, submitted to IEEE TAP.
 
