@@ -20,7 +20,11 @@ const = bin.constants();
 CMA.Fn_orig = CMA.Fn_orig(:, :, ind);
 CMA.tn_orig = CMA.tn_orig(:, ind);
 CMA.k0      = CMA.k0(ind);
-CMA.Info    = CMA.Info(ind);
+
+% Sort fields proprietary to iterative solver
+if isfield(CMA, 'Info')
+    CMA.Info    = CMA.Info(ind);
+end
 
 % Set the range for tracking
 [~, Nm, Nf]  = size(CMA.Fn_orig);
