@@ -63,7 +63,7 @@ if strcmp(type, 'tn')
 else
     hndl.traces = plot(x, fcn(tn), '-d', 'LineWidth', 1, ...
         'MarkerSize', 5, 'MarkerFaceColor', [0.7 0.7 0.7]);
-    xlim([x(1)-1e5*eps x(end)+1e5*eps]);
+    xlim([x(1)-1e3*eps(x(1)) x(end)+1e3*eps(x(end))]);
     ylim(yLim);
 end
 
