@@ -27,10 +27,10 @@ else
 end
 
 if ~isfield(options, 'adaIters')
-    options.eigSolver   = 0;
+    options.adaIters   = 0;
 end
 if ~isfield(options, 'adaMSmax')
-    options.eigSolver   = inf;
+    options.adaMSmax   = inf;
 end
 
 % Assign file name
@@ -101,7 +101,7 @@ fprintf(2, '*** Iter-CMA Evaluation complete (UNIFORM SAMPLING)! (Total time: %1
 % scattering dyadics (ADAPTIVE SAMPLING)
 
 % Plot the results of uniform solver
-fh = @(x) models.utilities.converter.k0tof0(x);
+fh = @(x) bin.k0tof0(x);
 ms = @(x) abs(x);
 
 hndl.fig = figure('color', 'w', 'pos', [50 50 900 700]);
@@ -111,7 +111,8 @@ ylabel('modal significance $|t_n|$', 'FontSize', 14, 'Interpreter', 'LaTeX');
 
 % Add data from uniform solver:
 hndl.ln{1}  = plot(fh(CMA_IP.k0), ms(CMA_IP.tn), '-o');
-xlim([fh(CMA_IP.k0([1 end]))]);
+xlim([fh([CMA_IP.k0(1)*(1 - 1e3*eps(CMA_IP.k0(1))), ...
+          CMA_IP.k0(end)*(1 + 1e3*eps(CMA_IP.k0(end)))])]);
 grid on;
 hold on;
 
@@ -238,5 +239,5 @@ end
 fprintf(2, '*** CMA Iteration Evaluation (ADAPTIVE SAMPLING) complete! *** \n');
 
 %% Plot results
-hndl = bin.plotEigenvalues(models.utilities.converter.k0tof0(CMA_IP.k0), CMA_IP.tn, 'MS', true);
+hndl = bin.plotEigenvalues(bin.k0tof0(CMA_IP.k0), CMA_IP.tn, 'MS', true);
 xlabel('frequency $f$ (Hz)', 'Interpreter', 'LaTeX', 'FontSize', 14);

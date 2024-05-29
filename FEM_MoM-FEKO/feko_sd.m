@@ -71,10 +71,7 @@ CMA_SD.type    = options.eigSolver;
 
 % Far-field tracking
 if length(k0) > 1
-    [F_n, t_n] = bin.farFieldTracking(CMA_SD);
-
-    CMA_SD.Fn = F_n;
-    CMA_SD.tn = t_n;
+    CMA_SD = bin.farFieldTracking(CMA_SD);
 else
     CMA_SD.Fn = CMA_SD.Fn_orig;
     CMA_SD.tn = CMA_SD.tn_orig;    
