@@ -18,11 +18,10 @@ solver = feko.getSolverOption(); % default settings
 % Use  multiple right-hand sides at once? (direct sparse solver)
 MRHS  = false;
 
-ka    = 2;
+% ka    = 2;
 a     = hypot(1/2, 1/4);
 k0lim = [0.9, 2.9]/a;
-k0    = linspace(k0lim(1), k0lim(end), 20);
-% k0    = k0lim(end);
+k0    = linspace(k0lim(1), k0lim(end), 31);
 
 Materials = {}; % =PEC
 
@@ -39,35 +38,16 @@ fprintf(1, 'Estimated nPW=%d, nDegree=%d, USED nPW=%d\n\n', ...
 %% Run wrapper and FEKO solver, data are to be saved as "outputFileName"
 feko_sd();
 
-%% Plot eigenvalues in terms of eigenangles
 M = 10;
 hndlAngles = bin.plotEigenvalues(CMA_SD.k0, CMA_SD.tn(1:M, :), 'angles');
 xlabel('$k_0$ (1/m)', 'Interpreter', 'latex', 'FontSize', 14);
 
 %% Run wrapper for iterative eigenvalue solver
-% options.solver = 'eigs';
-% feko_icm();
-% CMA_IP_eigs = CMA_IP;
-% itEigs = Info.iter;
+options.solver   = 'std';
+options.nModes   = 5;
+options.adaIters = 0;
 
-%% Run wrapper for iterative eigenvalue solver
-% options.solver = 'eit';
-% feko_icm();
-% CMA_IP_eit = CMA_IP;
-% itEit = Info.iter;
+feko_icm();
 
-%% Run wrapper for iterative eigenvalue solver
-% options.solver = 'eits';
-% feko_icm();
-% CMA_IP_eits = CMA_IP;
-% itEits = Info.iter;
-
-%%
-% [CMA_SD.tn(1:10) CMA_IP_eigs.tn(1:10) CMA_IP_eit.tn(1:10) CMA_IP_eits.tn(1:10)]
-% [CMA_SD.tt, CMA_IP_eigs.tt CMA_IP_eit.tt CMA_IP_eits.tt]
-% [2*nDegree, itEigs, itEit, itEits]
-
-%%
-% [CMA_SD.tn(1:10) CMA_IP_eigs.tn(1:10) CMA_IP_eits.tn(1:10)]
-% [CMA_SD.tt, CMA_IP_eigs.tt CMA_IP_eits.tt]
-% [2*nDegree, itEigs,  itEits]
+hndlAngles = bin.plotEigenvalues(CMA_IP.k0, CMA_IP.tn.', 'angles');
+xlabel('$k_0$ (1/m)', 'Interpreter', 'latex', 'FontSize', 14);

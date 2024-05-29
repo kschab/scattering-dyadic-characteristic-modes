@@ -15,7 +15,7 @@ solver = feko.getSolverOption(); % default settings
 MRHS  = false;
 
 fList = 1e9 * linspace(0.1, 2.6, 16);
-k0    = models.utilities.converter.f0tok0(fList);
+k0    = bin.f0tok0(fList);
 a     = 0.0675;
 
 Materials = {}; % =PEC

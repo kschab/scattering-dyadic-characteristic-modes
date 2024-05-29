@@ -52,11 +52,11 @@ fprintf(1, 'Estimated nPW=%d, nDegree=%d, USED nPW=%d\n', ...
 feko_sd();
 
 %% Run wrapper for iterative eigenvalue solver
-feko_icm();
+feko_icm(); % there are many options to be set, see feko_icm.m, lines 8-34
 
 %% Plot eigenvalues
-hndltn = bin.plotEigenvalues(CMA_SD.k0, CMA_SD.tn(1:M, :), 'tn');
+hndltn = bin.plotEigenvalues(CMA_SD.k0, CMA_SD.tn, 'tn');
 
 %% Plot eigenvalues in terms of eigenangles
-hndlAngles = bin.plotEigenvalues(CMA_SD.k0, CMA_SD.tn(1:M, :), 'angles');
+hndlAngles = bin.plotEigenvalues(CMA_SD.k0, CMA_SD.tn, 'angles');
 xlabel('$k_0$ (1/m)', 'Interpreter', 'latex', 'FontSize', 14);
