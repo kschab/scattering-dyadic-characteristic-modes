@@ -1,7 +1,6 @@
 function f = projectFarFields(P_xyz, F, AFCN, ind, lq_weights)
 
-[~, theta, phi] = models.utilities.converter.cart2sph( ...
-    P_xyz(:, 1), P_xyz(:, 2), P_xyz(:, 3));
+[~, theta, phi] = bin.cart2sph(P_xyz(:, 1), P_xyz(:, 2), P_xyz(:, 3));
 
 constants = bin.constants();
 
