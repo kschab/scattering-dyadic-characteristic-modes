@@ -1,4 +1,4 @@
-function [Fn, handles, fn] = plotModalSubstructureFarField(...
+function [Fn, handles, FF, fn] = plotModalSubstructureFarField(...
     CMA, solver, EXTR, f, m)
 % PLOTMODALSUBSTRUCTUREFARFIELD: reconstruct far fields for substructures
 % 
@@ -10,7 +10,10 @@ function [Fn, handles, fn] = plotModalSubstructureFarField(...
 %   m      ~ modal index
 % 
 % Outputs:
-%   Fn ~ normalized (eigen-)vector(s) 
+%   Fn      ~ far field in plane wave basis
+%   handles ~ references to graphical objects
+%   FF      ~ far-field structure (see details inside)
+%   fn      ~ far field in spherical wave basis
 % 
 % (c) 2025, Miloslav Capek, CTU in Prague, miloslav.capek@fel.cvut.cz
 
