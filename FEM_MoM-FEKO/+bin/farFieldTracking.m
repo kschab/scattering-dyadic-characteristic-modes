@@ -8,10 +8,10 @@ function CMA = farFieldTracking(CMA)
 %            vectors, characteristic numbers, etc.).
 % 
 % Outputs:
-%    Fn_ ~ tracked characteristic vectors (far fields)
+%    Fn_ ~ tracked characteristic far fields
 %    tn_ ~ tracked characteristic numbers
 % 
-% (c) 2022-2024, Miloslav Capek, CTU in Prague, miloslav.capek@fel.cvut.cz
+% (c) 2022-2025, Miloslav Capek, CTU in Prague, miloslav.capek@fel.cvut.cz
 
 const = bin.constants();
 
@@ -20,8 +20,6 @@ const = bin.constants();
 CMA.Fn_orig = CMA.Fn_orig(:, :, ind);
 CMA.tn_orig = CMA.tn_orig(:, ind);
 CMA.k0      = CMA.k0(ind);
-
-% Sort fields proprietary to iterative solver
 if isfield(CMA, 'Info')
     CMA.Info    = CMA.Info(ind);
 end

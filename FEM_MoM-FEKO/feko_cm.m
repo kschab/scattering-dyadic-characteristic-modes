@@ -13,15 +13,15 @@
 % 
 % The variables used below are fully described in README file.
 % 
-% (c) 2022-2024, Miloslav Capek, CTU in Prague, miloslav.capek@fel.cvut.cz
+% (c) 2022-2025, Miloslav Capek, CTU in Prague, miloslav.capek@fel.cvut.cz
 
 clear;
 clc;
 close all;
 
 % Put here the file containing CMA_SD structure with the data:
-inputFileName = 'Ex2B_rim_PEC_losslessRogers3_SurfEquivMoM_1458tria_26leb_100freq_0p7_2p9_SurfMoM';
-load(fullfile('data', [inputFileName '.mat']));
+inputFileName = 'data\Ex0_plate_PEC_SMoM_112tria.mat';
+load(inputFileName);
 
 solver = feko.getSolverOption();
 
@@ -44,7 +44,7 @@ feko.cleanupFEKOsolverFiles(options.preFEKOfileName);
 feko.cleanupFEKOcurrents(options.preFEKOfileName);
 
 % Prepare pre wrapper with plane waves to excite selected char. mode
-feko.calculateCharacteristicMode(CMA_IP, f, m, solver, options);
+feko.calculateCharacteristicMode(CMA_IP, EXTR, solver, f, m, options);
 
 % Run postFEKO where the modal currents are shown
 system(['postfeko ' options.preFEKOfileName '.fek &']);

@@ -14,7 +14,7 @@
 % one batch, see "batchLenght" variable below (be careful with memory!).
 % For other variables, see the README file.
 % 
-% (c) 2022-2024, Miloslav Capek, CTU in Prague, miloslav.capek@fel.cvut.cz
+% (c) 2022-2025, Miloslav Capek, CTU in Prague, miloslav.capek@fel.cvut.cz
 
 options.batchLength     = 10;   % =20 for student's edition of FEKO
 options.deleteAuxFiles  = true; % perform cleanup
@@ -61,20 +61,17 @@ fprintf(2, '*** SD Evaluation complete! (Total time: %1.0fs) *** \n', tt);
 % Calculate char. mode decomposition (via scattering dyadic matrix)
 % "S" contains one specific "model" for 'std' solver and C+U and U "models" 
 % for 'subs' solver...
-[F_n, t_n, W] = bin.decomposeScatteringDyadic(...
+[A_n, t_n, W] = bin.decomposeScatteringDyadic(...
     S, k0, quadrature.w, options.eigSolver);
 
 CMA_SD.W  = W;
-CMA_SD.Fn_orig = F_n;
+CMA_SD.Fn_orig = A_n; % Eigenvectors are characteristic excitation
 CMA_SD.tn_orig = t_n;
 CMA_SD.type    = options.eigSolver;
 
 % Far-field tracking
 if length(k0) > 1
     CMA_SD = bin.farFieldTracking(CMA_SD);
-else
-    CMA_SD.Fn = CMA_SD.Fn_orig;
-    CMA_SD.tn = CMA_SD.tn_orig;    
 end
 
 % Save the data

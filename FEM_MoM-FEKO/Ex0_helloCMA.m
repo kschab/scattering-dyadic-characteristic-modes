@@ -9,14 +9,14 @@
 % 
 % If you meet any troubles, see README.txt.
 % 
-% (c) 2022-2024, Miloslav Capek, CTU in Prague, miloslav.capek@fel.cvut.cz
+% (c) 2022-2025, Miloslav Capek, CTU in Prague, miloslav.capek@fel.cvut.cz
 
 clear;
 clc;
 close all;
 
 % The output file is saved in [data] folder:
-outputFileName  = 'Ex0_plate_PEC_MoM_14leb_51freq_ka_0p5_2p5';
+outputFileName  = 'Ex0_plate_PEC_SMoM_112tria';
 
 % The name of the "cfm" FEKO file with the model, saved in [models] folder:
 model = {'Ex0_plate_PEC_SMoM_112tria'};
@@ -28,8 +28,8 @@ solver = feko.getSolverOption(); % default settings
 MRHS  = false;
 
 % Electrical size studied (a is the radius of the circumscribing sphere):
-% ka    = linspace(0.5, 2.5, 51);
-ka    = pi/2;
+ka    = linspace(0.5, 1.5, 6);
+% ka    = pi/2;
 a     = hypot(1/2, 1/4);
 k0    = ka/a;
 % Materials used (if empty, PEC is used everywhere):
@@ -52,6 +52,11 @@ fprintf(1, 'Estimated nPW=%d, nDegree=%d, USED nPW=%d\n', ...
 feko_sd();
 
 %% Run wrapper for iterative eigenvalue solver
+options.nModes        = 10;
+options.relativeError = 1e-4;
+options.adaIters      = 1;
+options.adaMSmax      = 0.2;
+options.eigSolver     = 'std';
 feko_icm(); % there are many options to be set, see feko_icm.m, lines 8-34
 
 %% Plot eigenvalues

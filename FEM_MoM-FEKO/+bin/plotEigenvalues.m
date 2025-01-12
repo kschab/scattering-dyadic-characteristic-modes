@@ -13,7 +13,7 @@ function hndl = plotEigenvalues(x, tn, type, addNumbers)
 %           contains prescription of eigenvalues postprocessing (anonymous
 %           function)
 % 
-% (c) 2022, Miloslav Capek, CTU in Prague, miloslav.capek@fel.cvut.cz
+% (c) 2022-2025, Miloslav Capek, CTU in Prague, miloslav.capek@fel.cvut.cz
 
 % If type of the plot is not specified, show eigen-angles:
 
@@ -63,7 +63,7 @@ if strcmp(type, 'tn')
 else
     hndl.traces = plot(x, fcn(tn), '-d', 'LineWidth', 1, ...
         'MarkerSize', 5, 'MarkerFaceColor', [0.7 0.7 0.7]);
-    xlim([x(1)-1e3*eps(x(1)) x(end)+1e3*eps(x(end))]);
+    xlim([x(1)*(1-1e5*eps), x(end)*(1+1e5*eps)]);
     ylim(yLim);
 end
 

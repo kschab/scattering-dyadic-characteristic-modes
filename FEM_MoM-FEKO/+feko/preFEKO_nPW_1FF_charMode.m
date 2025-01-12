@@ -30,9 +30,9 @@ EG{1} = sprintf('\n** End of geometry\n');
 EG{2} = sprintf('EG: 1 : 0 : 0 :  :  : 1e-6 :  :  :  :  :  :  : 1\n');
 
 % Dielectric object
-mater = @(str, epr, tand) sprintf(...
-    'DI: %s : 0 : -1 :  :  : %1.3f :  :  :  : %1.6f : 1000\n', ...
-    str, epr, tand);
+% mater = @(str, epr, tand) sprintf(...
+%     'DI: %s : 0 : -1 :  :  : %1.3f :  :  :  : %1.6f : 1000\n', ...
+%     str, epr, tand);
 MATER = cell(nMaterials+5, 1);
 MATER{1} = sprintf('\n** Solution control\n');
 MATER{2} = sprintf('PS: 0 : 0 : 3 : 1 :  : 1\n');
@@ -83,9 +83,18 @@ end
 % Request current outputs
 OUT{1} = sprintf('\n** Requested output\n');
 OUT{2} = sprintf('DA:  :  :  : 1 : 0\n');
+
 OUT{3} = newline;
+
 OUT{4} = sprintf('** Currents: Currents1\n');
 OUT{5} = sprintf('OS: 1 :  : 1   ** Currents1\n');
+
+OUT{6} = newline;
+
+OUT{7}  = sprintf('\n** Far fields: FarField1\n');
+OUT{8}  = sprintf('DA: 0 : 0 : 0 : 0 : 0 : 0 : 0 : 0 : 0 : 0 :  : 0\n');
+OUT{9}  = sprintf('OF: 1 : 0 :  :  :  : 0 : 0 : 0 : 0 : 0 : 0\n');
+OUT{10} = sprintf('FF: -1 : 37 : 73 : 0 : 0 : 0 : 0 : 5 : 5   ** FarField1\n');
 
 % End of file
 EN{1} = sprintf('\n** End of file\n');

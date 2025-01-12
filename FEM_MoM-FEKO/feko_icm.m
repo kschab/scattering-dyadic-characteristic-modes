@@ -3,7 +3,7 @@
 % This script utilizes all input variables provided by the user in the
 % staring script (see files ExXX_YYY.m) and calculates XXXXX
 % 
-% (c) 2022-2024, Miloslav Capek, CTU in Prague, miloslav.capek@fel.cvut.cz
+% (c) 2022-2025, Miloslav Capek, CTU in Prague, miloslav.capek@fel.cvut.cz
 
 options.deleteAuxFiles  = true; % perform cleanup
 options.preFEKOfileName = 'characteristicModeEvaluation';
@@ -27,10 +27,10 @@ else
 end
 
 if ~isfield(options, 'adaIters')
-    options.adaIters   = 0;
+    options.eigSolver   = 0;
 end
 if ~isfield(options, 'adaMSmax')
-    options.adaMSmax   = inf;
+    options.eigSolver   = inf;
 end
 
 % Assign file name
@@ -53,6 +53,13 @@ for m = 1:Nk0
         feko.calculateCharacteristicModesIterativeEigs(...
         model, k0(m), Materials, nDegree, solver, EXTR, options);
     N = diag(N);
+
+    % Normalize modal excitations to unitary size for substructure case
+    if strcmp(options.eigSolver, 'subs')
+
+        V = bin.normalizeAnToRadiatedPower(...
+            V, diag(repmat(quadrature.w, 2, 1)));
+    end
 
     % Sort the data from the most modal significant to the less...
     [~, inds] = sort(abs(N), 'descend');
@@ -77,7 +84,7 @@ end
 delete(wtb);
 
 % Assign all output variables
-CMA_IP.W         = blkdiag(diag(quadrature.w), diag(quadrature.w));
+CMA_IP.W         = diag(repmat(quadrature.w, 2, 1));
 CMA_IP.P         = [quadrature.x, quadrature.y, quadrature.z];
 CMA_IP.PW        = PW;
 CMA_IP.FF        = FF;
@@ -111,14 +118,14 @@ ylabel('modal significance $|t_n|$', 'FontSize', 14, 'Interpreter', 'LaTeX');
 
 % Add data from uniform solver:
 hndl.ln{1}  = plot(fh(CMA_IP.k0), ms(CMA_IP.tn), '-o');
-xlim([fh([CMA_IP.k0(1)*(1 - 1e3*eps(CMA_IP.k0(1))), ...
-          CMA_IP.k0(end)*(1 + 1e3*eps(CMA_IP.k0(end)))])]);
+xlim([fh(CMA_IP.k0(1))*(1-1e5*eps), fh(CMA_IP.k0(end))*(1+1e5*eps)]);
 grid on;
 hold on;
 
 % Start adaptive solver
 thisIt = 0;
 totK0  = CMA_IP.k0(end) - CMA_IP.k0(1); % for identifying most signif. mode
+if totK0 > 0  % start adaptive solver in case of finite band only
 while thisIt < options.adaIters
     thisIt = thisIt + 1;
     
@@ -128,10 +135,14 @@ while thisIt < options.adaIters
     avMS = (abs(CMA_IP.tn(:, 1:(end-1))) + abs(CMA_IP.tn(:, 2:end)))/2;
     spectralSignificance = sum(avMS .* diff(CMA_IP.k0), 2) / totK0;
     [~, mostSigMode] = max(spectralSignificance);
+%     mostSigMode = 6;
 
     % Add new samples
     k0piv = find(abs(diff(abs(CMA_IP.tn(mostSigMode, :)))) > options.adaMSmax);
     k0new = (CMA_IP.k0(k0piv) + CMA_IP.k0(k0piv+1)) / 2;
+
+    % k0piv = [36 37 59 60 85 86 176 177 202 203 244 245];
+    % k0new = (CMA_IP.k0(k0piv) + CMA_IP.k0(k0piv+1)) / 2;
 
     %----------------------------------------------------------------------
     % Find peaks for other (reasonable) modes
@@ -237,6 +248,7 @@ while thisIt < options.adaIters
     set(hndl.mrk{thisIt}, 'Color', [0.5 0.5 0.5]);
 end
 fprintf(2, '*** CMA Iteration Evaluation (ADAPTIVE SAMPLING) complete! *** \n');
+end
 
 %% Plot results
 hndl = bin.plotEigenvalues(bin.k0tof0(CMA_IP.k0), CMA_IP.tn, 'MS', true);
